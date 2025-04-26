@@ -70,6 +70,9 @@ model.objective.value() prints the maximum profit achieved with the optimal prod
 Summary
 This project models a business decision-making problem using Linear Programming.
 
+![Image](https://github.com/user-attachments/assets/fd06b6a5-6db3-41c2-997b-5edcf9b2e4f6)
+
+
 It finds the optimal combination of two products that will generate the highest profit, considering the limitations of materials and labor.
 
 PuLP makes it easy to set up, solve, and interpret optimization models in Python.
